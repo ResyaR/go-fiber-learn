@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go Logo" height="80"/>
-  <img src="https://raw.githubusercontent.com/gofiber/docs/main/static/logo.svg" alt="Fiber Logo" height="80"/>
-  <img src="https://gorm.io/assets/logo.svg" alt="GORM Logo" height="80"/>
 </p>
 
 <h1 align="center">belajargo</h1>
